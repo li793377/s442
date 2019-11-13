@@ -67,6 +67,49 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="images\adnai.JPG" />
+    <Content Include="images\bottle.JPG" />
+    <Content Include="images\breakfastbread.JPG" />
+    <Content Include="images\cake.JPG" />
+    <Content Include="images\cake2.JPG" />
+    <Content Include="images\cake4.JPG" />
+    <Content Include="images\candy.JPG" />
+    <Content Include="images\candy2.JPG" />
+    <Content Include="images\candy3.JPG" />
+    <Content Include="images\chip3.JPG" />
+    <Content Include="images\chip5.JPG" />
+    <Content Include="images\chips.JPG" />
+    <Content Include="images\coco.jpg" />
+    <Content Include="images\connoodles.JPG" />
+    <Content Include="images\cookies.JPG" />
+    <Content Include="images\cookies2.JPG" />
+    <Content Include="images\cookies3.JPG" />
+    <Content Include="images\dovechocolate.JPG" />
+    <Content Include="images\drink.JPG" />
+    <Content Include="images\egg.JPG" />
+    <Content Include="images\fish.JPG" />
+    <Content Include="images\greentea.JPG" />
+    <Content Include="images\guolicheng.JPG" />
+    <Content Include="images\haidai.JPG" />
+    <Content Include="images\junk1.JPG" />
+    <Content Include="images\junk3.JPG" />
+    <Content Include="images\junk5.JPG" />
+    <Content Include="images\latiao10.JPG" />
+    <Content Include="images\latiao11.JPG" />
+    <Content Include="images\latiao12.JPG" />
+    <Content Include="images\latiao2.JPG" />
+    <Content Include="images\latiao4.JPG" />
+    <Content Include="images\latiao5.JPG" />
+    <Content Include="images\latiao6.JPG" />
+    <Content Include="images\latiao8.JPG" />
+    <Content Include="images\latiao9.JPG" />
+    <Content Include="images\rusuanjun.JPG" />
+    <Content Include="images\shaqima.JPG" />
+    <Content Include="images\xuebi.jpg" />
+    <Content Include="images\yingyangkuaixian.JPG" />
+    <Content Include="images\youlemei2.JPG" />
+    <Content Include="images\youlemei3.JPG" />
+    <Content Include="images\zhenguoli.JPG" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -80,6 +123,19 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\xsst.Model\xsst.Model.csproj">
+      <Project>{00608fea-3d5d-42d2-9e4d-54a2375cdb32}</Project>
+      <Name>xsst.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\xsxt.BLL\xsxt.BLL.csproj">
+      <Project>{b74eb3d7-8121-4d69-b90f-e9cf06ef405f}</Project>
+      <Name>xsxt.BLL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
