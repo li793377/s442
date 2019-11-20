@@ -125,10 +125,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\xsst.Model\xsst.Model.csproj">
-      <Project>{00608fea-3d5d-42d2-9e4d-54a2375cdb32}</Project>
-      <Name>xsst.Model</Name>
-    </ProjectReference>
     <ProjectReference Include="..\xsxt.BLL\xsxt.BLL.csproj">
       <Project>{b74eb3d7-8121-4d69-b90f-e9cf06ef405f}</Project>
       <Name>xsxt.BLL</Name>

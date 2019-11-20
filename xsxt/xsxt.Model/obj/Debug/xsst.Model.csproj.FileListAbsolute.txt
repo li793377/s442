@@ -1,0 +1,5 @@
+C:\Users\Bin\s442\xsxt\xsst.Model\bin\Debug\xsst.Model.dll
+C:\Users\Bin\s442\xsxt\xsst.Model\bin\Debug\xsst.Model.pdb
+C:\Users\Bin\s442\xsxt\xsst.Model\obj\Debug\xsst.Model.csprojAssemblyReference.cache
+C:\Users\Bin\s442\xsxt\xsst.Model\obj\Debug\xsst.Model.dll
+C:\Users\Bin\s442\xsxt\xsst.Model\obj\Debug\xsst.Model.pdb

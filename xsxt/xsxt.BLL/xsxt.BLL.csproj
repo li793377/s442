@@ -41,12 +41,27 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddressManager.cs" />
+    <Compile Include="AdminManager.cs" />
+    <Compile Include="CartManager.cs" />
+    <Compile Include="DetailsManager.cs" />
+    <Compile Include="KindsManager.cs" />
+    <Compile Include="MassageManager.cs" />
+    <Compile Include="NoticeManager.cs" />
+    <Compile Include="OrdersManager.cs" />
+    <Compile Include="PictureManager.cs" />
+    <Compile Include="ProductManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\xsxt.DAL\xsxt.DAL.csproj">
       <Project>{79a19730-2a56-4718-9d98-91a9cf024651}</Project>
       <Name>xsxt.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\xsxt.Model\xsxt.Model.csproj">
+      <Project>{00608fea-3d5d-42d2-9e4d-54a2375cdb32}</Project>
+      <Name>xsxt.Model</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

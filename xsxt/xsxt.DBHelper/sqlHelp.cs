@@ -7,7 +7,7 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Configuration;
 
-namespace stu.DBHelper
+namespace xsxt.DBHelper
 {
     public static class sqlHelp
     {

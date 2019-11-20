@@ -41,16 +41,27 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddressSer.cs" />
+    <Compile Include="AdminSer.cs" />
+    <Compile Include="CartSer.cs" />
+    <Compile Include="Details.cs" />
+    <Compile Include="KindsSer.cs" />
+    <Compile Include="MassageSer.cs" />
+    <Compile Include="NoticeSer.cs" />
+    <Compile Include="OrdersSer.cs" />
+    <Compile Include="PictureSer.cs" />
+    <Compile Include="ProductSer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserSer.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\xsst.Model\xsst.Model.csproj">
-      <Project>{00608fea-3d5d-42d2-9e4d-54a2375cdb32}</Project>
-      <Name>xsst.Model</Name>
-    </ProjectReference>
     <ProjectReference Include="..\xsxt.DBHelper\xsxt.DBHelper.csproj">
       <Project>{0cee6dd4-b083-47b8-9915-30e1bc79eeeb}</Project>
       <Name>xsxt.DBHelper</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\xsxt.Model\xsxt.Model.csproj">
+      <Project>{00608fea-3d5d-42d2-9e4d-54a2375cdb32}</Project>
+      <Name>xsxt.Model</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
