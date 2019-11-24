@@ -46,7 +46,7 @@
     <Compile Include="CartManager.cs" />
     <Compile Include="DetailsManager.cs" />
     <Compile Include="KindsManager.cs" />
-    <Compile Include="MassageManager.cs" />
+    <Compile Include="MessageManager.cs" />
     <Compile Include="NoticeManager.cs" />
     <Compile Include="OrdersManager.cs" />
     <Compile Include="PictureManager.cs" />

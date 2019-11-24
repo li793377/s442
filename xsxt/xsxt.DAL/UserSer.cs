@@ -10,7 +10,7 @@ namespace xsxt.DAL
 {
     public static class UserSer
     {
-        public static User getUserByName(User user)
+        public static User GetUserByName(User user)
         {
             SqlParameter[] sp=
             {
@@ -18,9 +18,9 @@ namespace xsxt.DAL
             };
             string sql = "select * from tb_user where username like @username";
             SqlDataReader dr = sqlHelp.ExecuteReader(sql, sp);
-            return getUserByDateReader(dr);
+            return GetUserByDateReader(dr);
         }
-        public static int addUser(User user)
+        public static int AddUser(User user)
         {
             SqlParameter[] sp =
             {
@@ -36,7 +36,7 @@ namespace xsxt.DAL
             string sql = "inser into tb_user values=(@username,@password,@tname,@sex,@email,@tel,@adr,@photoID)";
             return sqlHelp.ExecuteNonQuery(sql,sp);
         }
-        private static User getUserByDateReader(SqlDataReader dr)
+        private static User GetUserByDateReader(SqlDataReader dr)
         {
             User user = new User();
             while(dr.Read())

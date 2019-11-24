@@ -9,13 +9,13 @@ namespace xsxt.BLL
 {
     public static class UserManager
     {
-        public static User getUserByName(User user)
+        public static User GetUserByName(User user)
         {
-            return UserSer.getUserByName(user);
+            return UserSer.GetUserByName(user);
         }
-        public static int addUser(User user)
+        public static int AddUser(User user)
         {
-            return UserSer.addUser(user);
+            return UserSer.AddUser(user);
         }
     }
 }

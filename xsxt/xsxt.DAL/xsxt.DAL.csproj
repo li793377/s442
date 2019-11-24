@@ -44,9 +44,9 @@
     <Compile Include="AddressSer.cs" />
     <Compile Include="AdminSer.cs" />
     <Compile Include="CartSer.cs" />
-    <Compile Include="Details.cs" />
+    <Compile Include="DetailsSer.cs" />
     <Compile Include="KindsSer.cs" />
-    <Compile Include="MassageSer.cs" />
+    <Compile Include="MessageSer.cs" />
     <Compile Include="NoticeSer.cs" />
     <Compile Include="OrdersSer.cs" />
     <Compile Include="PictureSer.cs" />

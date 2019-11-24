@@ -3,10 +3,20 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using xsxt.Model;
+using xsxt.DAL;
 
 namespace xsxt.BLL
 {
-    class OrdersManager
+    public static class OrdersManager
     {
+        public static Orders GetOrdersByUsername(Orders orders)
+        {
+            return OrdersSer.GetOrdersByUsername(orders);
+        }
+        public static int AddOrders(Orders orders)
+        {
+            return OrdersSer.AddOrders(orders);
+        }
     }
 }
