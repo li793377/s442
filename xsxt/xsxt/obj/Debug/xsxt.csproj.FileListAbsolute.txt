@@ -57,3 +57,7 @@ C:\Users\Bin\s442\xsxt\xsxt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatfo
 C:\Users\Bin\s442\xsxt\xsxt\obj\Debug\xsxt.csproj.CopyComplete
 C:\Users\Bin\s442\xsxt\xsxt\obj\Debug\xsxt.dll
 C:\Users\Bin\s442\xsxt\xsxt\obj\Debug\xsxt.pdb
+C:\Users\Bin\s442\xsxt\xsxt\bin\xsxt.DAL.dll
+C:\Users\Bin\s442\xsxt\xsxt\bin\xsxt.DBHelper.dll
+C:\Users\Bin\s442\xsxt\xsxt\bin\xsxt.DAL.pdb
+C:\Users\Bin\s442\xsxt\xsxt\bin\xsxt.DBHelper.pdb

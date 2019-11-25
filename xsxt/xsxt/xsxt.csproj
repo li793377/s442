@@ -68,49 +68,49 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Default.aspx" />
-    <Content Include="App_Data\images\adnai.JPG" />
-    <Content Include="App_Data\images\bottle.JPG" />
-    <Content Include="App_Data\images\breakfastbread.JPG" />
-    <Content Include="App_Data\images\cake.JPG" />
-    <Content Include="App_Data\images\cake2.JPG" />
-    <Content Include="App_Data\images\cake4.JPG" />
-    <Content Include="App_Data\images\candy.JPG" />
-    <Content Include="App_Data\images\candy2.JPG" />
-    <Content Include="App_Data\images\candy3.JPG" />
-    <Content Include="App_Data\images\chip3.JPG" />
-    <Content Include="App_Data\images\chip5.JPG" />
-    <Content Include="App_Data\images\chips.JPG" />
-    <Content Include="App_Data\images\coco.jpg" />
-    <Content Include="App_Data\images\connoodles.JPG" />
-    <Content Include="App_Data\images\cookies.JPG" />
-    <Content Include="App_Data\images\cookies2.JPG" />
-    <Content Include="App_Data\images\cookies3.JPG" />
-    <Content Include="App_Data\images\dovechocolate.JPG" />
-    <Content Include="App_Data\images\drink.JPG" />
-    <Content Include="App_Data\images\egg.JPG" />
-    <Content Include="App_Data\images\fish.JPG" />
-    <Content Include="App_Data\images\greentea.JPG" />
-    <Content Include="App_Data\images\guolicheng.JPG" />
-    <Content Include="App_Data\images\haidai.JPG" />
-    <Content Include="App_Data\images\junk1.JPG" />
-    <Content Include="App_Data\images\junk3.JPG" />
-    <Content Include="App_Data\images\junk5.JPG" />
-    <Content Include="App_Data\images\latiao10.JPG" />
-    <Content Include="App_Data\images\latiao11.JPG" />
-    <Content Include="App_Data\images\latiao12.JPG" />
-    <Content Include="App_Data\images\latiao2.JPG" />
-    <Content Include="App_Data\images\latiao4.JPG" />
-    <Content Include="App_Data\images\latiao5.JPG" />
-    <Content Include="App_Data\images\latiao6.JPG" />
-    <Content Include="App_Data\images\latiao8.JPG" />
-    <Content Include="App_Data\images\latiao9.JPG" />
-    <Content Include="App_Data\images\rusuanjun.JPG" />
-    <Content Include="App_Data\images\shaqima.JPG" />
-    <Content Include="App_Data\images\xuebi.jpg" />
-    <Content Include="App_Data\images\yingyangkuaixian.JPG" />
-    <Content Include="App_Data\images\youlemei2.JPG" />
-    <Content Include="App_Data\images\youlemei3.JPG" />
-    <Content Include="App_Data\images\zhenguoli.JPG" />
+    <Content Include="images\adnai.JPG" />
+    <Content Include="images\bottle.JPG" />
+    <Content Include="images\breakfastbread.JPG" />
+    <Content Include="images\cake.JPG" />
+    <Content Include="images\cake2.JPG" />
+    <Content Include="images\cake4.JPG" />
+    <Content Include="images\candy.JPG" />
+    <Content Include="images\candy2.JPG" />
+    <Content Include="images\candy3.JPG" />
+    <Content Include="images\chip3.JPG" />
+    <Content Include="images\chip5.JPG" />
+    <Content Include="images\chips.JPG" />
+    <Content Include="images\coco.jpg" />
+    <Content Include="images\connoodles.JPG" />
+    <Content Include="images\cookies.JPG" />
+    <Content Include="images\cookies2.JPG" />
+    <Content Include="images\cookies3.JPG" />
+    <Content Include="images\dovechocolate.JPG" />
+    <Content Include="images\drink.JPG" />
+    <Content Include="images\egg.JPG" />
+    <Content Include="images\fish.JPG" />
+    <Content Include="images\greentea.JPG" />
+    <Content Include="images\guolicheng.JPG" />
+    <Content Include="images\haidai.JPG" />
+    <Content Include="images\junk1.JPG" />
+    <Content Include="images\junk3.JPG" />
+    <Content Include="images\junk5.JPG" />
+    <Content Include="images\latiao10.JPG" />
+    <Content Include="images\latiao11.JPG" />
+    <Content Include="images\latiao12.JPG" />
+    <Content Include="images\latiao2.JPG" />
+    <Content Include="images\latiao4.JPG" />
+    <Content Include="images\latiao5.JPG" />
+    <Content Include="images\latiao6.JPG" />
+    <Content Include="images\latiao8.JPG" />
+    <Content Include="images\latiao9.JPG" />
+    <Content Include="images\rusuanjun.JPG" />
+    <Content Include="images\shaqima.JPG" />
+    <Content Include="images\xuebi.jpg" />
+    <Content Include="images\yingyangkuaixian.JPG" />
+    <Content Include="images\youlemei2.JPG" />
+    <Content Include="images\youlemei3.JPG" />
+    <Content Include="images\zhenguoli.JPG" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -139,9 +139,9 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="App_LocalResources\CSS\" />
-    <Folder Include="App_LocalResources\Image\" />
-    <Folder Include="App_LocalResources\JS\" />
+    <Folder Include="adminManage\" />
+    <Folder Include="App_Data\" />
+    <Folder Include="CSS\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

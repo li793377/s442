@@ -3,3 +3,8 @@ C:\Users\Bin\s442\xsxt\xsst.Model\bin\Debug\xsxt.Model.pdb
 C:\Users\Bin\s442\xsxt\xsst.Model\obj\Debug\xsxt.Model.csprojAssemblyReference.cache
 C:\Users\Bin\s442\xsxt\xsst.Model\obj\Debug\xsxt.Model.dll
 C:\Users\Bin\s442\xsxt\xsst.Model\obj\Debug\xsxt.Model.pdb
+C:\Users\Bin\s442\xsxt\xsxt.Model\bin\Debug\xsxt.Model.dll
+C:\Users\Bin\s442\xsxt\xsxt.Model\bin\Debug\xsxt.Model.pdb
+C:\Users\Bin\s442\xsxt\xsxt.Model\obj\Debug\xsxt.Model.csprojAssemblyReference.cache
+C:\Users\Bin\s442\xsxt\xsxt.Model\obj\Debug\xsxt.Model.dll
+C:\Users\Bin\s442\xsxt\xsxt.Model\obj\Debug\xsxt.Model.pdb

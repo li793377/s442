@@ -6,3 +6,7 @@ C:\Users\Bin\s442\xsxt\xsxt.BLL\obj\Debug\xsxt.BLL.csprojAssemblyReference.cache
 C:\Users\Bin\s442\xsxt\xsxt.BLL\obj\Debug\xsxt.BLL.csproj.CopyComplete
 C:\Users\Bin\s442\xsxt\xsxt.BLL\obj\Debug\xsxt.BLL.dll
 C:\Users\Bin\s442\xsxt\xsxt.BLL\obj\Debug\xsxt.BLL.pdb
+C:\Users\Bin\s442\xsxt\xsxt.BLL\bin\Debug\xsxt.Model.dll
+C:\Users\Bin\s442\xsxt\xsxt.BLL\bin\Debug\xsxt.DBHelper.dll
+C:\Users\Bin\s442\xsxt\xsxt.BLL\bin\Debug\xsxt.Model.pdb
+C:\Users\Bin\s442\xsxt\xsxt.BLL\bin\Debug\xsxt.DBHelper.pdb

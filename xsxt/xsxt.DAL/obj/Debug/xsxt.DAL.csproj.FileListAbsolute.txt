@@ -1,12 +1,10 @@
 C:\Users\Bin\s442\xsxt\xsxt.DAL\obj\Debug\xsxt.DAL.csprojAssemblyReference.cache
 C:\Users\Bin\s442\xsxt\xsxt.DAL\bin\Debug\xsxt.DAL.dll
 C:\Users\Bin\s442\xsxt\xsxt.DAL\bin\Debug\xsxt.DAL.pdb
-C:\Users\Bin\s442\xsxt\xsxt.DAL\bin\Debug\xsxt.DAL.dll.CodeAnalysisLog.xml
-C:\Users\Bin\s442\xsxt\xsxt.DAL\bin\Debug\xsxt.DAL.dll.lastcodeanalysissucceeded
-C:\Users\Bin\s442\xsxt\xsxt.DAL\bin\Debug\xsst.Model.dll
 C:\Users\Bin\s442\xsxt\xsxt.DAL\bin\Debug\xsxt.DBHelper.dll
-C:\Users\Bin\s442\xsxt\xsxt.DAL\bin\Debug\xsst.Model.pdb
 C:\Users\Bin\s442\xsxt\xsxt.DAL\bin\Debug\xsxt.DBHelper.pdb
 C:\Users\Bin\s442\xsxt\xsxt.DAL\obj\Debug\xsxt.DAL.csproj.CopyComplete
 C:\Users\Bin\s442\xsxt\xsxt.DAL\obj\Debug\xsxt.DAL.dll
 C:\Users\Bin\s442\xsxt\xsxt.DAL\obj\Debug\xsxt.DAL.pdb
+C:\Users\Bin\s442\xsxt\xsxt.DAL\bin\Debug\xsxt.Model.dll
+C:\Users\Bin\s442\xsxt\xsxt.DAL\bin\Debug\xsxt.Model.pdb
